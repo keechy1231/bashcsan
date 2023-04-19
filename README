@@ -1,0 +1,3 @@
+Simple Bash port scanner
+
+Created for use as using NMAP over a proxy can take a long time. 
